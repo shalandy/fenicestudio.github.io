@@ -88,7 +88,7 @@ h6 {
   height: auto;
   padding-top: 8rem;
   padding-bottom: 8rem;
-  background: linear-gradient(90deg, rgba(255, 255, 255, 0.5) 0%, rgba(255, 255, 255, 0) 0%), url("../img/bg-masthead.jpg");
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0.5) 0%, rgba(255, 255, 255, 0) 0%), url("../img/header.jpg");
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover; }
@@ -194,7 +194,7 @@ h6 {
 
 .callout {
   padding: 110px;
-  background: url("../img/bg-callout.jpg");
+  background: url("../img/mypaintings.jpg");
   background-repeat: no-repeat;
   background-size: auto; }
   .callout h2 {
