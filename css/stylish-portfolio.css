@@ -35,12 +35,15 @@ h2 {
   font-size: 60px;
   color: black;
   font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
+  padding-bottom: 20px;
 }
 h3 {
   color: #f4f1dc;
   font-weight: 100;
 }
-h4,
+h4 {
+  font-family: Didot, "Didot LT STD", "Hoefler Text", Garamond, "Times New Roman", serif;
+}
 h5,
 h6 {
   font-weight: 700; }
@@ -192,7 +195,6 @@ h6 {
 .callout {
   padding: 110px;
   background: url("../img/bg-callout.jpg");
-  background-position: center center;
   background-repeat: no-repeat;
   background-size: auto; }
   .callout h2 {
@@ -293,7 +295,8 @@ a {
 
 .btn {
   box-shadow: 0px 3px 3px 0px rgba(0, 0, 0, 0.1);
-  font-weight: 700; }
+  font-weight: 300;
+  font-family: sans-serif}
 
 .bg-primary {
   background-color: #1D809F !important; }
